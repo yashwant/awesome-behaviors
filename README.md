@@ -3,7 +3,7 @@ The following list is collected from my library of product management best pract
 
 Some links (only a few) include a list of bullet points from the article. I expect this feature to be included in the future.
 
-Behavioral topics have considerable overlap. I also expect to revise these categories based on your feedback.
+Behavioral topics have considerable overlap. I expect to revise these categories based on your feedback.
 
 Enjoy!
 Brian Piercy
