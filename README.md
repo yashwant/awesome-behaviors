@@ -1,4 +1,4 @@
-```
+
 The following list is collected from my library of product management best practices, tips, how-tos, and case studies. The first release is restricted to behavioral topics; future releases will expand this doc to include more technical topics.
 
 Some links (only a few) include a list of bullet points from the article. I expect this feature to be included in the future.
@@ -9,7 +9,6 @@ Enjoy!
 Brian Piercy
 bjpcjp@gmail.com
 @brianpiercy
-```
 
 **attention**
 
